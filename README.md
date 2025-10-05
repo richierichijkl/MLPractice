@@ -6,6 +6,10 @@ A simple Flask web app that predicts whether a student is likely to be selected 
 - Input CGPA and IQ
 - Model predicts "Selected" or "Not Selected"
 
+## Screenshot
+
+<img src="/home/rc/Desktop/ML/placement_App/Screenshot from 2025-10-05 11-24-53.png" alt="Demo Screenshot" width="500"/>
+
 ## 🛠 Tech Stack
 - Python (Flask, scikit-learn, numpy)
 - HTML + Bootstrap for UI
